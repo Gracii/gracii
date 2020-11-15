@@ -1,6 +1,6 @@
 ### Hi there, I'm Grace👋
 
-I'm a Full Stack Software Developer, Digital Nomad Entrepreneur, Traveller, Movie Buff, & Music Lover!! 
+## I'm a Full Stack Software Developer, Digital Nomad Entrepreneur, Traveller, Movie Buff, & Music Lover!! 
 
 - 🔭 I’m currently learning new technical Software Development skills.
 - 🌱 I’m currently learning French Language!
