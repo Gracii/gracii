@@ -1,6 +1,4 @@
-
-
-### I'm Grace👋
+### Hi there, I'm Grace👋
 
 I'm a Full Stack Software Developer, Digital Nomad Entrepreneur, Traveller, Movie Buff, & Music Lover!! 
 
