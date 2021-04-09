@@ -8,6 +8,8 @@
 - 👯 I’m looking to collaborate to Open Source Project.
 - ⚡ Favorite thing to do: ✈️  Love to Travel ✨ !!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=graciicodes)](https://github.com/graciicodes/github-readme-stats)
+
 <!--
 **Gracii/gracii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
