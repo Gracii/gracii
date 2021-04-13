@@ -4,12 +4,13 @@
 
 - 🔭 I’m currently learning new technical Software Development skills.
 - 🌱 I’m currently sharpening my Vanilla JavaScrip skills!
-- 📫 How to reach me: gracii.castaneda@gmail.com
+- 📫 How to reach me: email
 - 👯 I’m looking to collaborate to Open Source Project.
-- ⚡ Favorite thing to do: ✈️  Love to Travel ✨ !!
+- 💖  Favorite thing to do: ✈️  Love to Travel ✨ !!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=graciicodes)](https://github.com/graciicodes/github-readme-stats)
 
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 <!--
 **Gracii/gracii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
