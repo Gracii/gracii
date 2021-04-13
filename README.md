@@ -1,10 +1,11 @@
 ### Hi there, ✨ I'm Grace 👋
 
-## I'm a Full Stack Software Developer | 💻 Web Developer Tech Journey  🚀 | 👩🏻‍ Latin Woman In tech 🌺  |🌍  Digital nomad📍 MX
+## I'm a Full Stack Software Developer | 💻 Web Developer Tech Journey  🚀 | 👩🏻‍ Latin Woman In Tech 🌺  |🌍  Traveller & living the Digital Nomad Life📍 MX | Technology Entusiast
 
 - 🔭 I’m currently learning new technical Software Development skills.
 - 🌱 I’m currently sharpening my Vanilla JavaScrip skills!
 - 📫 How to reach me: email
+- 🤔 I’m looking for help with documenting my coding journey through Blogging
 - 👯 I’m looking to collaborate to Open Source Project.
 - 💖  Favorite thing to do: ✈️  Love to Travel ✨ !!
 
