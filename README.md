@@ -1,6 +1,6 @@
 ### Hi there, ✨ I'm Grace 👋
 
-## I'm a Full Stack Software Developer | 📕  My Tech Journey  🚀  | Latin Women in Tech 🌺   | Create your dream life 💫  | Entrepreneurship |   🌍 Digital nomad | 📍 MX
+## I'm a Full Stack Software Developer | 💻 Web Developer Tech Journey  🚀   | Create your dream life 💫  | 👩🏻‍ Latin Woman In tech 🌺  |🌍  Digital nomad📍 MX
 
 - 🔭 I’m currently learning new technical Software Development skills.
 - 🌱 I’m currently sharpening my Vanilla JavaScrip skills!
@@ -8,8 +8,9 @@
 - 👯 I’m looking to collaborate to Open Source Project.
 - 💖  Favorite thing to do: ✈️  Love to Travel ✨ !!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=graciicodes)](https://github.com/graciicodes/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=graciicodes&show_icons=true&theme=radical)
 
+**Techonolgy Stack:**
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 <!--
