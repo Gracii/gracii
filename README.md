@@ -1,6 +1,6 @@
 ### Hi there, ✨ I'm Grace 👋
 
-## I'm a Full Stack Software Developer | 💻 Web Developer Tech Journey  🚀 | 👩🏻‍ Latin Woman In Tech 🌺  |🌍  Traveller & living the Digital Nomad Life📍 MX | Technology Enthusiast
+## I'm a Full Stack Software Developer | 💻 Web Developer Tech Journey  🚀 | 👩🏻‍ Latina Woman In Tech 🌺  |🌍  Traveller & living the Digital Nomad Life📍 MX | Technology Enthusiast
 
 - 🔭 I’m currently learning new technical Software Development skills.
 - 🌱 I’m currently sharpening my Vanilla JavaScrip skills!
